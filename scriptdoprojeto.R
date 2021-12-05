@@ -7,3 +7,6 @@ rename()
 #segunda parte do projeto
 join()
 select()
+#versao 3
+#alteracoes remotas
+Novos comandos
